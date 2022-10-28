@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "file-server": "^2.2.1",
+    "node": "^19.0.0",
+    "nodemon": "^2.0.20"
+  }
+}
